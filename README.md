@@ -157,7 +157,7 @@ When users log into their accounts, their local data is synchronized securely wi
 <table>
   <tr>
     <td align="center" valign="top" width="25%">
-      <img src="screenshots/statisticsscreens.jpeg" width="100%" alt="Statistics"/><br/>
+      <img src="screenshots/statisticscreens.jpeg" width="100%" alt="Statistics"/><br/>
       <sub><b>Interactive Charts</b></sub>
     </td>
     <td align="center" valign="top" width="25%">
