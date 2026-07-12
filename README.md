@@ -290,32 +290,6 @@ To enable the Currency Converter screen:
 
 ---
 
-## 🎓 Academic Context
-
-Finora was built as a Software Engineering academic coursework project. The project demonstrates:
-- Implementing clean separation of concerns (DAOs, Providers, UI Screens, Service layers).
-- Local-first offline capability using SQLite database version migrations.
-- Complete data isolation scoping queries around the Firebase Authenticated User UID (`FirebaseAuth.instance.currentUser`).
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the Project.
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the Branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## ✉️ Contact / Authors
 
 - **Author Name**: [Laiba Usman](https://github.com/Laiba-Usman)
